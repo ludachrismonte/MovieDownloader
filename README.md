@@ -3,7 +3,7 @@ Downloads short .ts files (10 second movie clips) and outputs a full movie.
 
 This was written to interface with the website gomovies.digital
 
-# To use get.py:
+## To use get.py:
 1. Find a movie on gomovies.digital that you want to download.
 1. Start streaming the movie. 
 1. Use chrome devtools (the network analyzer) to find the .ts files that are being streamed.
